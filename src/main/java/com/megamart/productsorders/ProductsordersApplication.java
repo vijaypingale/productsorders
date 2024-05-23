@@ -8,7 +8,7 @@ public class ProductsordersApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductsordersApplication.class, args);
-		System.out.println("Welcome to Spring Boot!!");
+		System.out.println("Welcome to Spring Boot with Microservice!!");
 	}
 
 }
